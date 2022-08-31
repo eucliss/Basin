@@ -1,6 +1,8 @@
 # BASIN PROTOCOL
 ###### From Current, by Eucliss
 
+[Twitter](https://twitter.com/Current_GameFi)
+
 ## Next Steps
 
 - [x] Deploy to test net ([Rinkeby](https://rinkeby.etherscan.io/address/0xaf77dfb668c78cd79cc2fe3c7767c3e4fe5218aa#code))
