@@ -1,7 +1,7 @@
 # BASIN PROTOCOL
 ###### From Current, by Eucliss
 
-[Twitter](https://twitter.com/Current_GameFi)
+[Twitter](https://twitter.com/Current_GameFi) 
 
 ## Next Steps
 
