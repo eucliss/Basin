@@ -1,0 +1,35 @@
+{
+  "name": "Basin",
+  "version": "0.1.0",
+  "description": "GameFi infrastructure protocol",
+  "author": "eucliss",
+  "license": "MIT",
+  "files": [
+    "src/**/*.sol"
+  ],
+  "devDependencies": {
+    "prettier": "^2.7.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eucliss/Basin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eucliss/Basin/issues"
+  },
+  "scripts": {
+    "setup": "make clean && make build",
+    "sync": "make update",
+    "test": "make test",
+    "snapshot": "make snapshot",
+    "format": "make format",
+    "lint": "make lint",
+    "all": "make all"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@openzeppelin/contracts-upgradeable": "^4.7.0",
+    "@rari-capital/solmate": "^6.4.0"
+  }
+}
